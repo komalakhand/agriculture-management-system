@@ -39,4 +39,6 @@ This project uses MySQL to store and manage application data. Import the databas
 Komal Akhand
 
 ## Purpose
-This project was developed as an academic project to practise PHP, MySQL, database management, and web application development.
+## Project Purpose
+
+The purpose of the Agriculture Management System is to develop a centralized web-based platform that simplifies the management of agricultural business operations. The system enables efficient handling of farmer records, company information, product details, loan records, and order management through an organized interface. By integrating PHP with a MySQL database, the application supports structured data storage, retrieval, and updates, helping improve record accuracy, accessibility, and operational efficiency.
