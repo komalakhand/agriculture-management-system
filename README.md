@@ -1,6 +1,7 @@
 # Agriculture Management System
 
 ## About the Project
+
 The Agriculture Management System is a web-based application developed using PHP and MySQL. It helps manage agricultural business information through a simple web interface.
 
 ## Technologies Used
@@ -21,10 +22,29 @@ The Agriculture Management System is a web-based application developed using PHP
 - Order management
 - Database connectivity using MySQL
 
+## Project Screenshots
+
+### 1. Screenshot – Application Interface
+![Application Screenshot](Screenshot%20%28221%29.png)
+
+### 2. Screenshot – Management Interface
+![Management Screenshot](Screenshot%20%28222%29.png)
+
+### 3. Screenshot – Farmer / Company Management
+![Farmer and Company Management](Screenshot%20%28223%29.png)
+
+### 4. Screenshot – Product / Loan Management
+![Product and Loan Management](Screenshot%20%28225%29.png)
+
+### 5. Screenshot – Application Module
+![Application Module](Screenshot%20%28229%29.png)
+
 ## Project Structure
+
 The project contains PHP files for login, dashboard, farmer, company, product, loan, and order management, along with database connection and CSS files.
 
 ## How to Run the Project
+
 1. Install XAMPP on your computer.
 2. Copy the project folder into the `htdocs` directory.
 3. Start Apache and MySQL from the XAMPP Control Panel.
@@ -33,12 +53,13 @@ The project contains PHP files for login, dashboard, farmer, company, product, l
 6. Open your browser and visit `http://localhost/AMS/`.
 
 ## Database
+
 This project uses MySQL to store and manage application data. Import the database SQL file before running the application.
 
-## Author
-Komal Akhand
-
-## Purpose
 ## Project Purpose
 
 The purpose of the Agriculture Management System is to develop a centralized web-based platform that simplifies the management of agricultural business operations. The system enables efficient handling of farmer records, company information, product details, loan records, and order management through an organized interface. By integrating PHP with a MySQL database, the application supports structured data storage, retrieval, and updates, helping improve record accuracy, accessibility, and operational efficiency.
+
+## Author
+
+**Komal Akhand**
